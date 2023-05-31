@@ -24,7 +24,7 @@
  height: 10%;
  }
  .nav-bar .logo{
- width: 45%;
+ width: 85%;
  height: 45%;
  margin-top: 20px;
  margin-left: 20px;
@@ -33,7 +33,7 @@
 
  .nav-bar .heading{
   position: absolute;
-  left: 50px;
+  left: 70px;
   bottom:1px;
  }
  .nav-icons{
